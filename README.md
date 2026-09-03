@@ -1,7 +1,6 @@
 # 2D OpenGL Animated Transportation Scene
 
-A 2D animated transportation environment developed using C++ OpenGL and GLUT.
-
+A 2D animated transportation scene developed using C++ OpenGL and GLUT with moving vehicles and environmental animation.
 ## Features
 
 - Animated cars
