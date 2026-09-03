@@ -1,5 +1,3 @@
-Name : ABU BAKAR SIDDIQ		ID : 18-38030-2
-
 Description : This project deals with a view of a city, consists of  some animated transports like some cars, a train named "Subarna Express" and a plane named "US Bangla Airlines".
 
 ##############################################################################
